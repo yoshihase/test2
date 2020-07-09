@@ -1,1 +1,1 @@
-console.log('testです')
+console.log('CIのテストです')
